@@ -23,7 +23,7 @@ int main()
 		hours2[i] = hours[i]; //copying array to array
 		
 	}
-	 //input the hourly for ALL workers
+	 //input the hourly for each worker
 	cout << "Please enter the pay rate for each worker: ";
 	for (int k = 0; k < NUM_WORKER; k++)
 	{
